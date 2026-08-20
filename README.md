@@ -12,6 +12,7 @@ Welcome to the LeetCode Solutions repository! Here, you'll find daily solutions 
 | ------- |
 | [0001-two-sum](https://github.com/2k24cs1gayushsingh2413518-ctrl/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [1386-cinema-seat-allocation](https://github.com/2k24cs1gayushsingh2413518-ctrl/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/2k24cs1gayushsingh2413518-ctrl/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/2k24cs1gayushsingh2413518-ctrl/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -43,4 +44,8 @@ Welcome to the LeetCode Solutions repository! Here, you'll find daily solutions 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/2k24cs1gayushsingh2413518-ctrl/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/2k24cs1gayushsingh2413518-ctrl/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
